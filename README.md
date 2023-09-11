@@ -22,8 +22,7 @@ It incorporates flex and position properties for responsive design and showcasin
 
 ## Preview
 
-![Uploading image.png…]()
-
+![image](https://github.com/yashsarode45/Sushiman-Landing-Page/assets/65209607/0af7c8c7-edf2-4cc6-b84c-90fb43d05809)
 
 [View Live Site](https://sushiman-web-landing-page-tan.vercel.app/)
 
